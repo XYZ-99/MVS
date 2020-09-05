@@ -1,4 +1,4 @@
-# Photo2ModelMVS
+# Photo2Model-MVS
 
 Photo2Model is a complete 3D reconstruction pipeline based on [COLMAP](https://colmap.github.io/install.html) and [PointMVSNet](https://github.com/callmeray/PointMVSNet) that only requires a set of photos as inputs.
 
@@ -40,7 +40,7 @@ To help rename your photos, EITHER run
 python ./renamePhotos.py
 ```
 
-or, to **delete** the unrenamed photos,
+OR, to **delete** the unrenamed photos,
 
 ```bash
 python ./renamePhotos.py -d
