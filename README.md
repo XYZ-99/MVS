@@ -50,6 +50,7 @@ python ./renamePhotos.py -d
 
 ### COLMAP
 
+**This step requires a GPU, so make sure to check the script before you run on the specified GPU.**
 To calibrate the cameras using COLMAP, run
 
 ```bash
